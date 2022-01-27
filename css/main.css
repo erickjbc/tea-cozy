@@ -106,10 +106,11 @@ main {
 #gallery {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     max-width: 1000px;
     margin: auto;
     align-content: center;
+    gap: 40px;
 }
 
 .gallery-item {
