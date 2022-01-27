@@ -6,6 +6,13 @@ html {
     opacity: 0.9;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color: burlywood;
+}
 
 
 /* Navigation */
@@ -49,9 +56,6 @@ nav ul {
     justify-content: space-around;
 }
 
-li a {
-    color: white;    
-}
 
 nav li {
     display: inline-block;
